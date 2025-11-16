@@ -4,7 +4,7 @@
 https://live3.istoikona.net:9802/kanali
 #EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://radioproto.com/wp-content/uploads/2023/09/2.png?width=200&height=200" group-title="Cyprus_Radio" tvg-name="Radio Proto",Radio Proto
 https://live3.istoikona.net:18191/stream
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2AAC.aac
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Cyprus_Radio" tvg-name="Diesi",Diesi
+https://r1.cloudskep.com/radio/diesi/icecast.audio
 #EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
