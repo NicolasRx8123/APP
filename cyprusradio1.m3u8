@@ -4,7 +4,7 @@
 https://live3.istoikona.net:9802/kanali
 #EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://radioproto.com/wp-content/uploads/2023/09/2.png?width=200&height=200" group-title="Cyprus_Radio" tvg-name="Radio Proto",Radio Proto
 https://live3.istoikona.net:18191/stream
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Cyprus_Radio" tvg-name="Diesi",Diesi
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://diesicyprus.com.cy/wp-content/uploads/2019/06/LOGO-DIESI.jpg?width=200&height=200" group-title="Cyprus_Radio" tvg-name="Diesi",Diesi
 https://r1.cloudskep.com/radio/diesi/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Cyprus Radio" tvg-name="Astra",Astra
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://dialogos.com.cy/wp-content/uploads/2024/03/ASTRA-LOGO-aplo-e16246145093421.jpg?width=200&height=200" group-title="Cyprus Radio" tvg-name="Astra",Astra
 https://securestreams2.autopo.st:1106/stream
