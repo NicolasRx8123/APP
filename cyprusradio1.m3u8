@@ -6,5 +6,5 @@ https://live3.istoikona.net:9802/kanali
 https://live3.istoikona.net:18191/stream
 #EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Cyprus_Radio" tvg-name="Diesi",Diesi
 https://r1.cloudskep.com/radio/diesi/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Cyprus Radio" tvg-name="Astra",Astra
+https://securestreams2.autopo.st:1106/stream
