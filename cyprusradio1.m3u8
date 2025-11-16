@@ -1,6 +1,6 @@
 #EXTM3U
 # @LaQuay https://github.com/LaQuay/TDTChannels
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://kanali6.com.cy/live-player_files/kanali6_logo2020.svg?width=200&height=200" group-title="Cyprus_Radio" tvg-name="Kanali 6",Kanali 6
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://kanali6.com.cy/wp-content/uploads/2019/11/cropped-kanali6_logo_dark.png?width=200&height=200" group-title="Cyprus_Radio" tvg-name="Kanali 6",Kanali 6
 https://live3.istoikona.net:9802/kanali
 #EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1AAC.aac
